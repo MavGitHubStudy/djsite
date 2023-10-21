@@ -3,3 +3,4 @@ example.txt
 add string #1
 add string #2
 add string #3
+add string #4
