@@ -1,4 +1,3 @@
 example.txt
 ===========
 add string #1
-add string #2
