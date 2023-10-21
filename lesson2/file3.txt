@@ -1,3 +1,2 @@
 "file3.txt"
 add string #1 to file3.txt
-add string #2 to file3.txt
